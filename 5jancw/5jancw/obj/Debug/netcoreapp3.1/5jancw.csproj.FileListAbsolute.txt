@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\bin\Debug\netcoreapp3.1\5jancw.exe
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\bin\Debug\netcoreapp3.1\5jancw.deps.json
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\bin\Debug\netcoreapp3.1\5jancw.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\bin\Debug\netcoreapp3.1\5jancw.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\bin\Debug\netcoreapp3.1\5jancw.dll
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\bin\Debug\netcoreapp3.1\5jancw.pdb
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.dll
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.pdb
+C:\Users\user\OneDrive\Desktop\C#\5jancw\5jancw\obj\Debug\netcoreapp3.1\5jancw.genruntimeconfig.cache
